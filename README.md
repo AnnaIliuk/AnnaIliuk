@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 [![Header](https://github.com/AnnaIliuk/Test/blob/main/assets/bug.jpg)]
 ## I'm a beginner QA Engineer.
 ## My CV
@@ -29,6 +27,3 @@
 ### Follow Me
 
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/anilser19)
-
-
--->
