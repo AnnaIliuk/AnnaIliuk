@@ -1,6 +1,6 @@
 
 [![Header](https://github.com/AnnaIliuk/Test/blob/main/assets/bug.jpg)]
-## I'm a beginner QA Engineer.
+## I'm a beginner tester.
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1mEQtfzLBmrCPhBwhK5wI6LvHM38sh_rx/view?usp=share_link)
 
