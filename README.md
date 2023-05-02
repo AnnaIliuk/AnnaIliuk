@@ -1,4 +1,4 @@
-### Hi there 👋
+
 [![Header](https://github.com/AnnaIliuk/Test/blob/main/assets/bug.jpg)]
 ## I'm a beginner QA Engineer.
 ## My CV
