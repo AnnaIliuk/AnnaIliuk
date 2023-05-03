@@ -23,6 +23,7 @@
 - [SQL Queries](https://docs.google.com/document/d/1ZlZmOT2-zjcyZnK_JuXodAxkRF2wPCVJ/edit?usp=sharing&ouid=118108454540808204932&rtpof=true&sd=true)
 - [Postman Collections](https://www.postman.com/grey-shadow-651525/workspace/my-workspace/collection/23540048-e5ed0fbe-b00d-4cc4-a08f-33d27d4f1164?action=share&creator=23540048)
 - [GitHub](https://github.com/AnnaIliuk/GitHub)
+- [Terminal](https://github.com/AnnaIliuk/Terminal)
 
 ### Follow Me
 
