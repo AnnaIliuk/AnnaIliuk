@@ -2,7 +2,7 @@
 [![Header](https://github.com/AnnaIliuk/Test/blob/main/assets/bug.jpg)]
 ## I'm a beginner tester.
 ## My CV
-[Link to my CV]
+[Link to my CV](https://drive.google.com/file/d/1APcWmD5dgohWYcpoYsd8g4DpyAkM0sK1/view?usp=share_link)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
