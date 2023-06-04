@@ -18,7 +18,7 @@
 ### Testing Artefacts
 
 - [Checklists]
-- [Test-Suites and Test-Cases]
+- [Test-Suites and Test-Cases](https://docs.google.com/spreadsheets/d/1wUKsdCychfh9xiI5TR12GEjmYU22NboYZNAhUgM_9tU/edit#gid=867967807)
 - [Bug-Reports]
 - [SQL Queries](https://docs.google.com/document/d/1ZlZmOT2-zjcyZnK_JuXodAxkRF2wPCVJ/edit?usp=sharing&ouid=118108454540808204932&rtpof=true&sd=true)
 - [Postman Collections](https://github.com/AnnaIliuk/Postman)
