@@ -20,7 +20,7 @@
 - [Checklists]
 - [Test-Suites and Test-Cases](https://docs.google.com/spreadsheets/d/1wUKsdCychfh9xiI5TR12GEjmYU22NboYZNAhUgM_9tU/edit#gid=0)
 - [Bug-Reports](https://docs.google.com/spreadsheets/d/1wUKsdCychfh9xiI5TR12GEjmYU22NboYZNAhUgM_9tU/edit#gid=867967807)
-- [SQL Queries](https://docs.google.com/document/d/1ZlZmOT2-zjcyZnK_JuXodAxkRF2wPCVJ/edit?usp=sharing&ouid=118108454540808204932&rtpof=true&sd=true)
+- [SQL Queries](https://github.com/AnnaIliuk/SQL)
 - [Postman Collections](https://github.com/AnnaIliuk/Postman)
 - [GitHub](https://github.com/AnnaIliuk/GitHub)
 - [Terminal](https://github.com/AnnaIliuk/Terminal)
