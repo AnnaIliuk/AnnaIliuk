@@ -25,6 +25,7 @@
 - [GitHub](https://github.com/AnnaIliuk/GitHub)
 - [Terminal](https://github.com/AnnaIliuk/Terminal)
 - [Charles](https://github.com/AnnaIliuk/Charles)
+- [DevTools](https://github.com/AnnaIliuk/DevTools)
 
 ### Follow Me
 
